@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coding Interview University
 
 > I originally created this as a short to-do list of study topics for becoming a software engineer,
@@ -229,6 +230,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 </details>
 
+=======
+>>>>>>> Shortened
 ## Don't feel you aren't smart enough
 - Successful software engineers are smart, but many have an insecurity that they aren't smart enough.
 - [The myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
